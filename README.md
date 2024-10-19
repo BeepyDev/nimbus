@@ -2,9 +2,8 @@
 Please note that Nimbus is still in its alpha stage, and most of the below information does not yet apply. Watch this repository to be notified of new releases.
 
 
-
 <details>
-<summary>OK, show me the details</summary>
+<summary>OK, view details</summary>
 
 # ☁️ Nimbus
 Nimbus is a simple, decentralized social media framework, built on PHP and JavaScript, with a focus on privacy, easy setup, and freedom of speech.
